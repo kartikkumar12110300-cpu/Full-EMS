@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 
 const API_URL =
   import.meta.env.VITE_API_URL ||
-  "https://ems-backend-9n7x.onrender.com/employees";
+  "https://full-ems.onrender.com/";
 
 function App() {
   const [employees, setEmployees] = useState([]);
