@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kartikkumar12110300-cpu.github.io/EMS-Frontend/",
+  "homepage": "https://kartikkumar12110300-cpu.github.io/Full-EMS/",
   "scripts": {
     "dev": "vite",
     "start": "vite",
